@@ -1,7 +1,11 @@
 ## Olá  sou a Israel Melo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="israel-melo-b4b12898 | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
-[<img align="left" alt="israel-melo-b4b12898 | Gmail" width="22px" src="./gmail.png" />][gmail]
+ <div align="center">
+  <a href="https://www.instagram.com/israel__olliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:israelm853@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/israel-melo-b4b12898/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+</br>
 
 
 👨‍💻 Atuando  na [A3Data](https://a3data.com.br/) como analista de negócios . <br />
@@ -31,6 +35,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 
-[linkedin]: [https://www.linkedin.com/in/israel-melo-b4b12898/]
-[gmail]: mailto:israelm853@gmail.com
   
