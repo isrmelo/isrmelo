@@ -35,6 +35,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 
-
+<div>
 ![snake animation](https://github.com/<isrmelo>/<isrmelo>/blob/output/github-contribution-grid-snake2.svg)
   
+</div>
